@@ -7,7 +7,7 @@ import isodate
 import pandas as pd
 
 # Database setup
-DATABASE_URL = "mysql+pymysql://root:Abdeshmukh08@localhost/allnew"
+DATABASE_URL = "mysql+pymysql://user:password@localhost/db_name"
 engine = create_engine(DATABASE_URL)
 Session = sessionmaker(bind=engine)
 session = Session()
