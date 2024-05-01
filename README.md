@@ -1,6 +1,6 @@
 # YouTube Channel Analytics Tool
 
-This project is designed to fetch and analyze YouTube channel data using the YouTube Data API and store the fetched data into a MySQL database. It provides a Streamlit-based web interface that allows users to initiate data fetching, view, and analyze various statistics such as video views, comment counts, and channel popularity.
+This project is designed to fetch and analyze YouTube channel data using the YouTube Data API and store the fetched data into a MySQL database. It provides a Streamlit-based web interface that allows users to initiate data fetching, view, and analyze various statistics such as video views, comment counts, and channel popularity. For the sake of simplisity, we took 10 Channels and 10 Questions as Query here.
 
 ## Getting Started
 
