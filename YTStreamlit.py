@@ -52,7 +52,7 @@ comments = Table('Comments', metadata,
 metadata.create_all(engine)
 
 # YouTube API setup
-API_KEY = 'AIzaSyBjExV6JfWBNLdnyurAdr4rGZorw0UXbdk'
+API_KEY = 'AIexample'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 query_mapping = {
